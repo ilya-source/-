@@ -1,3 +1,4 @@
+
 .gallery1 {
     width:450px;
     height:270px;
@@ -9,4 +10,64 @@
 .gallery3 {
     width:400px;
     height:250px;
+}
+.M5E60 {
+    width:600px;
+    height:400px;
+}
+.X5G05 {
+    width:600px;
+    height:400px;
+}
+.X320d {
+    width:600px;
+    height:400px;
+}
+.F90 {
+    width:600px;
+    height:400px;
+}
+.GLS {
+    width:600px;
+    height:400px;
+}
+.AMG {
+    width:600px;
+    height:400px;
+}
+.cclass{
+    width:600px;
+    height:400px;
+}
+.A4 {
+    width:600px;
+    height:400px;
+}
+.TT {
+    width:600px;
+    height:400px;
+} 
+.rs7 {
+    width:600px;
+    height:400px;
+}
+header {
+    background-color: aqua;
+    text-align: center;
+    font-size:24px;
+}
+a {
+    color:bLACK;
+}
+h2 {
+    color:blue;
+}
+footer {
+    background-color: darkblue;
+    font-size:38px;
+    text-align: center;
+    color:white;
+}
+img {
+    border:10px dashed aquamarine;
 }
