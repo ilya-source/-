@@ -63,11 +63,37 @@ h2 {
     color:blue;
 }
 footer {
-    background-color: darkblue;
+    background-color: #226078	;
     font-size:38px;
     text-align: center;
     color:white;
 }
 img {
-    border:10px dashed aquamarine;
+    border:10px dashed #0776A0;
+}
+body {
+    background-color: #62B1D0;
+}
+
+
+.cars p{
+    text-align:right;
+    float: right;
+    width: 50%;
+    position: absolute;
+    right: 20px;
+    font-size: large;
+}
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
+a:hover {
+color:white;
+background-color:black;
+}
+a {
+    background-color:white;
+    border-radius: 3px;
+    text-decoration: none;
 }
